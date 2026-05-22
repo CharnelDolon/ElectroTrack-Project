@@ -81,3 +81,8 @@ sql/
 
 ## License
 This project is for educational purposes only. 
+
+##
+Contributor:
+Charnel Dolon
+Israt Erin Urbi 
